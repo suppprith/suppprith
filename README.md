@@ -1,4 +1,4 @@
-hi :)
+hi!
 
 i'm suprith, a software dev.
 
